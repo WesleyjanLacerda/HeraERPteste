@@ -1,0 +1,18 @@
+OK - Integrar NCM
+Integrar o GPT
+	Gerar descrição de Produtos
+	Gerar mensagem para envio em massa
+OK - Corrigir botões Relatório
+Alterar todos os parametros para aceitar letras minusculas
+Criar opção de executar "Corrigir Comissões" dentro do sistema
+
+
+Catálogo online
+- Pegar os produtos da tela de Promoções
+
+
+- Combinar Remanescente
+- Combinar Junior
+
+- Verificar Firebird 4.0
+- Verificar sobre o Dev Express
